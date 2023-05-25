@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: C1cDez
+Main-Class: com.cicdez.gafsis.Main
+
